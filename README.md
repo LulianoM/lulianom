@@ -8,7 +8,7 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucianomartinsufrj/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:martinslucianofigueira@gmail.com)
 
-<img align='right' src="https://i.gifer.com/GjJi.gif" height="200em">  
+<img align='right' src="https://media.giphy.com/media/xULW8IgzGxJaIBYWBO/giphy.gif" height="160em">  
 
 - 💻 Software Eng. by [isaac](https://isaac.com.br)
 - 🌱 Python & Golang & RubyOnRails
