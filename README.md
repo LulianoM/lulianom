@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**LulianoM/lulianom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Coe 🤙 I'm Luciano 🤙
+__________________________
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
 -->
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lulianom)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucianomartinsufrj/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:martinslucianofigueira@gmail.com)
+
+- 💻 Software Eng. by [isaac](https://isaac.com.br)
+- 🌱 Python & Golang & RubyOnRails
+- 🔭 Blockchain & Crypto & NFT enthusiast
+- 💬 Learning Solodity and Blockchain Engineer
+- ⚡ in treatment for being addicted to buying courses on udemy
+
+&nbsp;
+
+<a href="https://github.com/lulianom">
+  <img lign='left' height="150em" src="https://github-readme-stats.vercel.app/api?username=lulianom&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>  
+
+<img align='right' src="https://media.giphy.com/media/tliXLSkzfq2C4/giphy.gif" height="150em">  
