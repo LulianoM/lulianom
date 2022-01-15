@@ -8,6 +8,7 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucianomartinsufrj/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:martinslucianofigueira@gmail.com)
 
+<img align='right' src="https://media.giphy.com/media/tliXLSkzfq2C4/giphy.gif" height="150em">  
 - 💻 Software Eng. by [isaac](https://isaac.com.br)
 - 🌱 Python & Golang & RubyOnRails
 - 🔭 Blockchain & Crypto & NFT enthusiast
@@ -16,7 +17,8 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
+
 <a href="https://github.com/lulianom">
   <img lign='left' height="150em" src="https://github-readme-stats.vercel.app/api?username=lulianom&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>  
 
-<img align='right' src="https://media.giphy.com/media/tliXLSkzfq2C4/giphy.gif" height="150em">  
+
