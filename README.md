@@ -8,7 +8,7 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martinslucianoufrj/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:martinslucianofigueira@gmail.com)
 
-<img align='right' src="https://media.giphy.com/media/VLC0h2nP7DsXj3QfJ6/giphy-downsized-large.gif" height="170em">  
+<img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcaz%25C3%25A9-casimiro-casimiro-miguel-vasco-meteu-essa-gif-23504954&psig=AOvVaw3Z1HJd70cDMlFcK1pzjpL4&ust=1642391945694000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLC1r_awtfUCFQAAAAAdAAAAABAD" height="170em">  
 
 - 💻 Software Eng. by [isaac](https://isaac.com.br)
 - 🌱 Python & Golang & RubyOnRails
