@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 - 💻 Software Eng. by [isaac](https://isaac.com.br)
 - 🌱 Python & Golang & RubyOnRails
 - 🔭 Blockchain & Crypto & NFT enthusiast
-- 💬 Learning Solodity and Blockchain Engineer
+- 💬 Learning Solidity and Blockchain Engineer
 - ⚡ in treatment for being addicted to buying courses on udemy
 
 &nbsp;
