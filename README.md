@@ -20,7 +20,3 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 
-<a href="https://github.com/lulianom">
-  <img lign='left' height="150em" src="https://github-readme-stats.vercel.app/api?username=lulianom&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>  
-
-
