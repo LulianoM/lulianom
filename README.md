@@ -12,6 +12,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 - 💻 Software Eng. by [isaac](https://isaac.com.br)
+- 🌎 Bachelor in Mathematical and Earth Sciences - UFRJ
 - 🌱 Python & Golang & RubyOnRails
 - 🤖 IA & Data Analysis & Computer Vision
 - 🔭 Blockchain & Crypto & NFT enthusiast
