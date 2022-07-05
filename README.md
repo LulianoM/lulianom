@@ -15,5 +15,3 @@ You can use the website to generate badges: https://shields.io/
 - 🌎 Bachelor in Mathematical and Earth Sciences - UFRJ
 - 🌱 Python & Golang & RubyOnRails
 - 🤖 IA & Data Analysis & Computer Vision
-- 🔭 Blockchain & Crypto & NFT enthusiast
-- 💬 Learning Solidity and Blockchain Engineer
