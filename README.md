@@ -11,10 +11,8 @@ You can use the website to generate badges: https://shields.io/ or https://githu
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 
 
-<img align='right' src="https://media2.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif?cid=ecf05e47h5nnu9ad0mi27a1o51kdze0pwxe1tisqdu9bmx5u&rid=giphy.gif&ct=g" height="200em">  
-
-
 - 💻 Software Eng. by [isaac](https://isaac.com.br)
+- 👁️ Open sources personal projects by [argos](https://github.com/argosapitech)
 - 🌎 Bachelor in Mathematical and Earth Sciences - UFRJ
 - 🌱 Python & Golang
 - 🤖 IA & Data Analysis & Computer Vision
