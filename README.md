@@ -11,7 +11,7 @@ You can use the website to generate badges: https://shields.io/ or https://githu
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 
 
-- 💻 Software Eng. by [isaac](https://isaac.com.br)
+- 💻 Software Eng.
 - 👁️ Open sources personal projects by [argos](https://github.com/argosapitech)
 - 🌎 Bachelor in Mathematical and Earth Sciences - UFRJ
 - 🌱 Python & Golang
