@@ -1,4 +1,4 @@
-## Coe I'm Luciano 🤙
+## I'm Luciano 🤙
 __________________________
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/ or https://github.com/alexandresanlim/Badges4-README.md-Profile#-contact-
