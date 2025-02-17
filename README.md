@@ -16,4 +16,3 @@ You can use the website to generate badges: https://shields.io/ or https://githu
 - 🌎 Bachelor in Mathematical and Earth Sciences - UFRJ
 - 🌱 Python & Golang
 - 🤖 IA & Data Analysis & Computer Vision
-- ⚡️ PLUS ULTRA
