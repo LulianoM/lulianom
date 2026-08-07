@@ -12,7 +12,6 @@ You can use the website to generate badges: https://shields.io/ or https://githu
 
 
 - 💻 Software Eng.
-- 👁️ CEO and CTO on [argos]([https://github.com/argosapitech](https://www.argosestudio.com.br/))
 - 🌎 Bachelor in Mathematical and Earth Sciences - UFRJ
 - 🌱 Python & Golang
 - 🤖 IA & Data Analysis & Computer Vision
